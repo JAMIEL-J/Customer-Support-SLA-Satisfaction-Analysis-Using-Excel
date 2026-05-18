@@ -18,8 +18,6 @@ The final output is an interactive Excel dashboard with KPI cards, slicers, pivo
 
 ## Dashboard Snapshot
 
-> Add your dashboard screenshot here.
-
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
